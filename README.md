@@ -2,7 +2,7 @@
 
 #
 
-[![Deploy](https://telegra.ph/file/d7f4a919e120d268ae3b7.jpg)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/Marie.git)
+[![Deploy](https://telegra.ph/file/e75b8ff32e728d5780ee6.png)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/Marie.git)
 
 ##
 
