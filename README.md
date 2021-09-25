@@ -1,13 +1,13 @@
-<a href="https://github.com/RMCMG/RMCMG_BOT"><img src="https://img.shields.io/badge/RMCMG%20BOT-gold?&style=flat-square?&logo=github" width=600px></a></p>
+<a href="https://github.com/BitMasterOfficial/Marie"><img src="https://img.shields.io/badge/Marie-gold?&style=flat-square?&logo=github" width=600px></a></p>
 
 #
 
-[![Deploy](https://telegra.ph/file/d7f4a919e120d268ae3b7.jpg)](https://heroku.com/deploy?template=https://github.com/RMCMG/RMCMG_BOT.git)
+[![Deploy](https://telegra.ph/file/d7f4a919e120d268ae3b7.jpg)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/Marie.git)
 
 ##
 
 <p align="center">
-    <a href="https://github.com/RMCMG/RMCMG_BOT/stargazers"><img src="https://img.shields.io/github/stars/RMCMG/RMCMG_BOT?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
+    <a href="https://github.com/BotMasterOfficial/Marie/stargazers"><img src="https://img.shields.io/github/stars/BotMasterOfficial/Marie?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
 <p align="center">
     <a href="https://app.codacy.com/manual/RMCMG/RMCMG_BOT/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
