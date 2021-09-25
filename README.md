@@ -2,7 +2,7 @@
 
 #
 
-[![Deploy](https://telegra.ph/file/317d6d9511f780a12c471.png)](https://heroku.com/deploy?template=https://github.com/RMCMG/RMCMG_BOT.git)
+[![Deploy](https://telegra.ph/file/d7f4a919e120d268ae3b7.jpg)](https://heroku.com/deploy?template=https://github.com/RMCMG/RMCMG_BOT.git)
 
 ##
 
