@@ -1,4 +1,4 @@
-<a href="https://github.com/BitMasterOfficial/Marie"><img src="https://img.shields.io/badge/Marie-gold?&style=flat-square?&logo=github" width=600px></a></p>
+<a href="https://github.com/BotMasterOfficial/Marie"><img src="https://img.shields.io/badge/Marie-gold?&style=flat-square?&logo=github" width=600px></a></p>
 
 #
 
