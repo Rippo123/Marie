@@ -1,8 +1,6 @@
+##
+
 <a href="https://github.com/BotMasterOfficial/Marie"><img src="https://img.shields.io/badge/Marie-gold?&style=flat-square?&logo=github" width=600px></a></p>
-
-#
-
-[![Deploy](https://telegra.ph/file/e75b8ff32e728d5780ee6.png)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/Marie.git)
 
 ##
 
@@ -60,9 +58,15 @@ For easiest way to deploy this Bot click on the below button
     <a href="https://t.me/Emma_Miller_Bot"><img src="https://img.shields.io/badge/Telegram-Emma%20Miller%20-gold?&style=flat-square?&logo=telegram" width=600px></a></p>
 </p>
 
-##
+#
 
-## A modular Telegram Python bot running on python3 with a sqlalchemy database.
+# A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/BotMasterOfficial/Marie.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
+
+#
+
+[![Deploy](https://telegra.ph/file/e75b8ff32e728d5780ee6.png)](https://heroku.com/deploy?template=https://github.com/BotMasterOfficial/Marie.git)
+
+#
