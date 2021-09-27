@@ -25,9 +25,11 @@ if you have any questions about how to use me please give me /help.....
 
 I am a Group Management bot maintained by  [Mukesh Solanki](t.me/mkspali).
 
-I am an official Group Management bot for this channel @RMCMG
+I am an official Group Management bot for this channel @BotMaster_mkspali
 
-Go to My Telegram Channel an Subscribe it ----> @RMCMG
+Go to My Telegram Channel an Subscribe it ----> @BotMaster_mkspali
+
+Support group ------> @BotMasterOfficial
 
 Thank You !!!!!
 
