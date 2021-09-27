@@ -4,6 +4,10 @@
 
 ##
 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=BotMasterOfficial&repo=Marie&theme=dark)
+
+#
+
 <p align="center">
     <a href="https://github.com/BotMasterOfficial/Marie/stargazers"><img src="https://img.shields.io/github/stars/BotMasterOfficial/Marie?label=Stars&style=flat-square&logo=github&color=F10070" alt="Stars" /></a>
 </p>
