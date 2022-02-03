@@ -1,6 +1,6 @@
 ##
 
-<a href="https://github.com/BotMasterOfficial/Marie"><img src="https://img.shields.io/badge/Marie-gold?&style=flat-square?&logo=github" width=600px></a></p>
+<a href="https://github.com/Rippo123/Marie"><img src="https://img.shields.io/badge/Marie-gold?&style=flat-square?&logo=github" width=600px></a></p>
 
 ##
 
